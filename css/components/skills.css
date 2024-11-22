@@ -39,4 +39,7 @@
 .skills__title {
     color: var(--roxo);
 }
+.skills__title__henrique {
+    color: var(--henriqueColor);
+}
 
